@@ -1,0 +1,358 @@
+{
+  "root": {
+    "label": "Minat utama?",
+    "type": "condition",
+    "condition_type": "minat",
+    "left": {
+      "label": "Minat == Teknologi?",
+      "type": "condition",
+      "condition_type": "minat_check",
+      "value": "Teknologi",
+      "left": {
+        "label": "Nilai Matematika > 85?",
+        "type": "condition",
+        "condition_type": "nilai",
+        "subject": "matematika",
+        "threshold": 85,
+        "left": {
+          "label": "Karier == Programmer?",
+          "type": "condition",
+          "condition_type": "karier",
+          "value": "Programmer",
+          "left": {
+            "result": "Teknik Informatika"
+          },
+          "right": {
+            "label": "Karier == Engineer?",
+            "type": "condition",
+            "condition_type": "karier",
+            "value": "Engineer",
+            "left": {
+              "result": "Teknik Elektro"
+            },
+            "right": {
+              "result": "Sistem Informasi"
+            }
+          }
+        },
+        "right": {
+          "label": "Karier == Programmer?",
+          "type": "condition",
+          "condition_type": "karier",
+          "value": "Programmer",
+          "left": {
+            "result": "Sistem Informasi"
+          },
+          "right": {
+            "label": "Minat kreatif tinggi?",
+            "type": "condition",
+            "condition_type": "seni_check",
+            "left": {
+              "result": "Desain Komunikasi Visual"
+            },
+            "right": {
+              "result": "Teknik Komputer"
+            }
+          }
+        }
+      },
+      "right": {
+        "label": "Minat == Sains?",
+        "type": "condition",
+        "condition_type": "minat_check",
+        "value": "Sains",
+        "left": {
+          "label": "(Nilai Matematika + Nilai IPA) > 160?",
+          "type": "condition",
+          "condition_type": "combined_nilai",
+          "subjects": [
+            "matematika",
+            "ipa"
+          ],
+          "threshold": 160,
+          "left": {
+            "label": "Karier == Dokter?",
+            "type": "condition",
+            "condition_type": "karier",
+            "value": "Dokter",
+            "left": {
+              "result": "Kedokteran"
+            },
+            "right": {
+              "label": "Karier == Peneliti?",
+              "type": "condition",
+              "condition_type": "karier",
+              "value": "Peneliti",
+              "left": {
+                "label": "Nilai Biologi > Kimia?",
+                "type": "condition",
+                "condition_type": "bio_vs_kimia",
+                "left": {
+                  "result": "Biologi"
+                },
+                "right": {
+                  "result": "Kimia"
+                }
+              },
+              "right": {
+                "result": "Farmasi"
+              }
+            }
+          },
+          "right": {
+            "label": "Karier == Peneliti?",
+            "type": "condition",
+            "condition_type": "karier",
+            "value": "Peneliti",
+            "left": {
+              "label": "Nilai Matematika > 80?",
+              "type": "condition",
+              "condition_type": "nilai",
+              "subject": "matematika",
+              "threshold": 80,
+              "left": {
+                "result": "Fisika"
+              },
+              "right": {
+                "result": "Matematika"
+              }
+            },
+            "right": {
+              "result": "Biologi"
+            }
+          }
+        },
+        "right": {
+          "label": "Minat == Kesehatan?",
+          "type": "condition",
+          "condition_type": "minat_check",
+          "value": "Kesehatan",
+          "left": {
+            "label": "Nilai IPA > 80?",
+            "type": "condition",
+            "condition_type": "nilai",
+            "subject": "ipa",
+            "threshold": 80,
+            "left": {
+              "label": "Karier == Dokter?",
+              "type": "condition",
+              "condition_type": "karier",
+              "value": "Dokter",
+              "left": {
+                "result": "Kedokteran Gigi"
+              },
+              "right": {
+                "label": "Karier == Perawat?",
+                "type": "condition",
+                "condition_type": "karier",
+                "value": "Perawat",
+                "left": {
+                  "result": "Keperawatan"
+                },
+                "right": {
+                  "result": "Kesehatan Masyarakat"
+                }
+              }
+            },
+            "right": {
+              "label": "Karier == Perawat?",
+              "type": "condition",
+              "condition_type": "karier",
+              "value": "Perawat",
+              "left": {
+                "result": "Keperawatan"
+              },
+              "right": {
+                "result": "Ilmu Gizi"
+              }
+            }
+          },
+          "right": {
+            "label": "Minat == Sosial?",
+            "type": "condition",
+            "condition_type": "minat_check",
+            "value": "Sosial",
+            "left": {
+              "label": "Nilai Bahasa > 80?",
+              "type": "condition",
+              "condition_type": "nilai",
+              "subject": "bahasa",
+              "threshold": 80,
+              "left": {
+                "label": "Karier == Psikolog?",
+                "type": "condition",
+                "condition_type": "karier",
+                "value": "Psikolog",
+                "left": {
+                  "result": "Psikologi"
+                },
+                "right": {
+                  "label": "Karier == Diplomat?",
+                  "type": "condition",
+                  "condition_type": "karier",
+                  "value": "Diplomat",
+                  "left": {
+                    "result": "Hubungan Internasional"
+                  },
+                  "right": {
+                    "result": "Ilmu Politik"
+                  }
+                }
+              },
+              "right": {
+                "label": "Karier == Psikolog?",
+                "type": "condition",
+                "condition_type": "karier",
+                "value": "Psikolog",
+                "left": {
+                  "result": "Psikologi"
+                },
+                "right": {
+                  "result": "Sosiologi"
+                }
+              }
+            },
+            "right": {
+              "label": "Minat == Ekonomi?",
+              "type": "condition",
+              "condition_type": "minat_check",
+              "value": "Ekonomi",
+              "left": {
+                "label": "Nilai Matematika > 75?",
+                "type": "condition",
+                "condition_type": "nilai",
+                "subject": "matematika",
+                "threshold": 75,
+                "left": {
+                  "label": "Karier == Manager?",
+                  "type": "condition",
+                  "condition_type": "karier",
+                  "value": "Manager",
+                  "left": {
+                    "result": "Manajemen"
+                  },
+                  "right": {
+                    "label": "Karier == Akuntan?",
+                    "type": "condition",
+                    "condition_type": "karier",
+                    "value": "Akuntan",
+                    "left": {
+                      "result": "Akuntansi"
+                    },
+                    "right": {
+                      "result": "Ekonomi Pembangunan"
+                    }
+                  }
+                },
+                "right": {
+                  "label": "Karier == Akuntan?",
+                  "type": "condition",
+                  "condition_type": "karier",
+                  "value": "Akuntan",
+                  "left": {
+                    "result": "Akuntansi"
+                  },
+                  "right": {
+                    "result": "Ekonomi Islam"
+                  }
+                }
+              },
+              "right": {
+                "label": "Minat == Seni?",
+                "type": "condition",
+                "condition_type": "minat_check",
+                "value": "Seni",
+                "left": {
+                  "label": "Nilai Seni > 80?",
+                  "type": "condition",
+                  "condition_type": "nilai",
+                  "subject": "seni",
+                  "threshold": 80,
+                  "left": {
+                    "label": "Karier == Seniman?",
+                    "type": "condition",
+                    "condition_type": "karier",
+                    "value": "Seniman",
+                    "left": {
+                      "label": "Lebih suka visual atau audio?",
+                      "type": "condition",
+                      "condition_type": "visual_vs_audio",
+                      "left": {
+                        "result": "Seni Rupa"
+                      },
+                      "right": {
+                        "result": "Seni Musik"
+                      }
+                    },
+                    "right": {
+                      "label": "Karier == Content Creator?",
+                      "type": "condition",
+                      "condition_type": "karier",
+                      "value": "Content Creator",
+                      "left": {
+                        "result": "Broadcasting"
+                      },
+                      "right": {
+                        "result": "Film dan Televisi"
+                      }
+                    }
+                  },
+                  "right": {
+                    "label": "Lebih suka visual atau audio?",
+                    "type": "condition",
+                    "condition_type": "visual_vs_audio",
+                    "left": {
+                      "result": "Seni Rupa"
+                    },
+                    "right": {
+                      "result": "Seni Musik"
+                    }
+                  }
+                },
+                "right": {
+                  "label": "Nilai Bahasa > 85?",
+                  "type": "condition",
+                  "condition_type": "nilai",
+                  "subject": "bahasa",
+                  "threshold": 85,
+                  "left": {
+                    "label": "Karier == Guru?",
+                    "type": "condition",
+                    "condition_type": "karier",
+                    "value": "Guru",
+                    "left": {
+                      "result": "Pendidikan Bahasa"
+                    },
+                    "right": {
+                      "label": "Lebih suka Indonesia atau Inggris?",
+                      "type": "condition",
+                      "condition_type": "indo_vs_english",
+                      "left": {
+                        "result": "Sastra Indonesia"
+                      },
+                      "right": {
+                        "result": "Sastra Inggris"
+                      }
+                    }
+                  },
+                  "right": {
+                    "label": "Karier == Guru?",
+                    "type": "condition",
+                    "condition_type": "karier",
+                    "value": "Guru",
+                    "left": {
+                      "result": "Pendidikan Bahasa"
+                    },
+                    "right": {
+                      "result": "Linguistik"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

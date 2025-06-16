@@ -1,0 +1,609 @@
+[
+  {
+    "kota": "Jakarta",
+    "jurusan": "Teknik Informatika",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Kedokteran",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Psikologi",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Hukum",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Akuntansi",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Manajemen",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Teknik Sipil",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Farmasi",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Ilmu Komunikasi",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jakarta",
+    "jurusan": "Arsitektur",
+    "kampus": "UI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Teknik Informatika",
+    "kampus": "ITS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Kedokteran",
+    "kampus": "Unair",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Teknik Elektro",
+    "kampus": "ITS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Teknik Sipil",
+    "kampus": "ITS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Teknik Mesin",
+    "kampus": "ITS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Farmasi",
+    "kampus": "Unair",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Psikologi",
+    "kampus": "Unair",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Hukum",
+    "kampus": "Unair",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Ekonomi",
+    "kampus": "Unair",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Teknik Kimia",
+    "kampus": "ITS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Teknik Informatika",
+    "kampus": "ITB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Psikologi",
+    "kampus": "Unpad",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Manajemen",
+    "kampus": "Unpad",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Teknik Elektro",
+    "kampus": "ITB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Teknik Sipil",
+    "kampus": "ITB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Arsitektur",
+    "kampus": "ITB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Kedokteran",
+    "kampus": "Unpad",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Hukum",
+    "kampus": "Unpad",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Ilmu Komunikasi",
+    "kampus": "Unpad",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bandung",
+    "jurusan": "Teknik Mesin",
+    "kampus": "ITB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Kedokteran",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Teknik Informatika",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Seni Rupa",
+    "kampus": "ISI",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Hukum",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Psikologi",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Teknik Sipil",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Ekonomi",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Farmasi",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Manajemen",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Yogyakarta",
+    "jurusan": "Akuntansi",
+    "kampus": "UGM",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Teknik Elektro",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Akuntansi",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Kedokteran",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Hukum",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Teknik Sipil",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Psikologi",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Manajemen",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Semarang",
+    "jurusan": "Teknik Informatika",
+    "kampus": "Undip",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Kedokteran",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Sistem Informasi",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Teknik Sipil",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Hukum",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Ekonomi",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Teknik Elektro",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Malang",
+    "jurusan": "Psikologi",
+    "kampus": "UB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Solo",
+    "jurusan": "Kedokteran",
+    "kampus": "UNS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Solo",
+    "jurusan": "Hukum",
+    "kampus": "UNS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Solo",
+    "jurusan": "Teknik Sipil",
+    "kampus": "UNS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Solo",
+    "jurusan": "Ekonomi",
+    "kampus": "UNS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Solo",
+    "jurusan": "Akuntansi",
+    "kampus": "UNS",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Medan",
+    "jurusan": "Kedokteran",
+    "kampus": "USU",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Medan",
+    "jurusan": "Teknik Sipil",
+    "kampus": "USU",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Medan",
+    "jurusan": "Hukum",
+    "kampus": "USU",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Medan",
+    "jurusan": "Ekonomi",
+    "kampus": "USU",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Medan",
+    "jurusan": "Farmasi",
+    "kampus": "USU",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Palembang",
+    "jurusan": "Kedokteran",
+    "kampus": "Unsri",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Palembang",
+    "jurusan": "Teknik Sipil",
+    "kampus": "Unsri",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Palembang",
+    "jurusan": "Hukum",
+    "kampus": "Unsri",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Palembang",
+    "jurusan": "Ekonomi",
+    "kampus": "Unsri",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Makassar",
+    "jurusan": "Kedokteran",
+    "kampus": "Unhas",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Makassar",
+    "jurusan": "Teknik Sipil",
+    "kampus": "Unhas",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Makassar",
+    "jurusan": "Hukum",
+    "kampus": "Unhas",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Makassar",
+    "jurusan": "Ekonomi",
+    "kampus": "Unhas",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Makassar",
+    "jurusan": "Farmasi",
+    "kampus": "Unhas",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Padang",
+    "jurusan": "Kedokteran",
+    "kampus": "Unand",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Padang",
+    "jurusan": "Teknik Sipil",
+    "kampus": "Unand",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Padang",
+    "jurusan": "Hukum",
+    "kampus": "Unand",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Padang",
+    "jurusan": "Ekonomi",
+    "kampus": "Unand",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Denpasar",
+    "jurusan": "Kedokteran",
+    "kampus": "Unud",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Denpasar",
+    "jurusan": "Hukum",
+    "kampus": "Unud",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Denpasar",
+    "jurusan": "Ekonomi",
+    "kampus": "Unud",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Denpasar",
+    "jurusan": "Pariwisata",
+    "kampus": "Unud",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jember",
+    "jurusan": "Kedokteran",
+    "kampus": "Unej",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jember",
+    "jurusan": "Teknik Sipil",
+    "kampus": "Unej",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Jember",
+    "jurusan": "Hukum",
+    "kampus": "Unej",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Purwokerto",
+    "jurusan": "Kedokteran",
+    "kampus": "Unsoed",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Purwokerto",
+    "jurusan": "Hukum",
+    "kampus": "Unsoed",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Purwokerto",
+    "jurusan": "Ekonomi",
+    "kampus": "Unsoed",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bogor",
+    "jurusan": "Kedokteran Hewan",
+    "kampus": "IPB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bogor",
+    "jurusan": "Pertanian",
+    "kampus": "IPB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bogor",
+    "jurusan": "Kehutanan",
+    "kampus": "IPB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bogor",
+    "jurusan": "Teknologi Pangan",
+    "kampus": "IPB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Bogor",
+    "jurusan": "Ekonomi Manajemen",
+    "kampus": "IPB",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Tangerang",
+    "jurusan": "Kedokteran",
+    "kampus": "UPH",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Tangerang",
+    "jurusan": "Manajemen",
+    "kampus": "UPH",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Tangerang",
+    "jurusan": "Teknik Informatika",
+    "kampus": "UPH",
+    "akreditasi": "A"
+  },
+  {
+    "kota": "Depok",
+    "jurusan": "Teknik Informatika",
+    "kampus": "Gunadarma",
+    "akreditasi": "B"
+  },
+  {
+    "kota": "Depok",
+    "jurusan": "Sistem Informasi",
+    "kampus": "Gunadarma",
+    "akreditasi": "B"
+  },
+  {
+    "kota": "Depok",
+    "jurusan": "Manajemen",
+    "kampus": "Gunadarma",
+    "akreditasi": "B"
+  },
+  {
+    "kota": "Bekasi",
+    "jurusan": "Teknik Informatika",
+    "kampus": "President University",
+    "akreditasi": "B"
+  },
+  {
+    "kota": "Surabaya",
+    "jurusan": "Sains Data",
+    "kampus": "Unesa",
+    "akreditasi": "S+"
+  }
+  
+]
